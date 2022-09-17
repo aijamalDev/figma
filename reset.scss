@@ -1,0 +1,56 @@
+$bg: black;
+
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.container{
+  width: 90%;
+  margin: auto;
+}
+
+
+a{
+  text-decoration: none;
+}
+
+
+body {
+  font-family: 'Graphik', sans-serif;
+}
+@mixin btn{
+  padding: 10px 30px;
+  background: #2091F9;
+  border-radius: 35px;
+  color:white;
+  font-size: 20px;
+  transition: .4s;
+  &:hover{
+    transform: scale(1.2);
+    border: 2px solid #2091F9;
+    background: rgba(0, 0, 0, 0.74);
+  }
+
+}
+@mixin btnn{
+  padding: 6px 20px;
+  background: #2091F9;
+  border-radius: 35px;
+  color:white;
+  font-size: 20px;
+  border: none;
+}
+
+
+
+@mixin btnnn{
+  padding: 6px 20px;
+  background: #ffffff;
+  border-radius: 35px;
+  color: #2091F9;
+  font-size: 20px;
+  border: none;
+}
+

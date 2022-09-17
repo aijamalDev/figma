@@ -1,0 +1,189 @@
+@charset "UTF-8";
+@media (max-width: 1024px) {
+  #Partners .Partners--general button {
+    padding: 10px 30px;
+    background: #2091F9;
+    border-radius: 35px;
+    color: white;
+    font-size: 20px;
+    transition: 0.4s;
+    margin-left: 374px;
+    margin-top: 70px;
+  }
+  #сontact .contact .contact--fond__general {
+    display: flex;
+    width: 558px;
+    margin-bottom: 50px;
+  }
+  #сontact .contact .сontact--general {
+    background: white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+    width: 337px;
+    padding: 0 20px;
+    height: 458px;
+    border: 1px solid #DDDDDD;
+    box-shadow: 0 13px 19px rgba(0, 0, 0, 0.07);
+    border-radius: 20px;
+    text-align: center;
+  }
+  #сontact .contact .contact--fond__icons {
+    display: flex;
+    margin: 43px 0 0 -94px;
+  }
+}
+@media (max-width: 992px) {
+  #fast .fast--general {
+    margin-top: 180px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column-reverse;
+  }
+  #fast .fast--general__at h6 {
+    font-weight: 700;
+    font-size: 21px;
+    color: #252B42;
+    margin-top: -35px;
+  }
+  * {
+    margin-top: 15px;
+  }
+  fast .fast--general__at h1 {
+    font-weight: 400;
+    font-size: 48px;
+    color: #252B42;
+    margin-top: -31px;
+  }
+  fast .fast--general__at p {
+    font-weight: 400;
+    font-size: 18px;
+    color: #374754;
+    margin-bottom: 22px;
+  }
+  #Partners .Partners--general button {
+    padding: 10px 30px;
+    background: #2091F9;
+    border-radius: 35px;
+    color: white;
+    font-size: 20px;
+    transition: 0.4s;
+    margin-left: 385px;
+    margin-top: 70px;
+  }
+  #Pricing .Pricing--general h3 {
+    font-weight: 400;
+    font-size: 28px;
+    text-align: center;
+    color: #FFFFFF;
+    padding: 9px 0;
+  }
+  #Pricing .Pricing--general__block {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 40px;
+    gap: 30px;
+    width: 258px;
+    height: 611px;
+    background: #FFFFFF;
+    border: 1px solid #DEDEDE;
+    box-shadow: 0 13px 19px rgba(0, 0, 0, 0.07);
+    border-radius: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+  }
+  #Pricing .Pricing--general__block2 h1 {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    color: #252B42;
+    padding-bottom: 20px;
+  }
+  #Pricing .Pricing--general__block2 p {
+    font-weight: 400;
+    font-size: 16px;
+    letter-spacing: 0.1px;
+    color: #374754;
+  }
+  #Pricing .Pricing--general__block2 div h1 {
+    font-weight: 700;
+    font-size: 74px;
+    color: #252B42;
+    padding-top: 20px;
+  }
+  #Pricing .Pricing--general__block h1 {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    color: #252B42;
+    padding-bottom: 20px;
+  }
+  #сontact .contact .contact--fond__general {
+    display: flex;
+    width: 543px;
+    margin-bottom: 50px;
+  }
+}
+@media (max-width: 769px) {
+  #hero .hero--general h1 {
+    font-weight: 700;
+    font-size: 44px;
+    text-align: center;
+    color: #FFFFFF;
+    padding-bottom: -16px;
+  }
+  #hero .hero--general p {
+    font-weight: 400;
+    font-size: 19px;
+    text-align: center;
+    color: #FFFFFF;
+    padding-bottom: 28px;
+  }
+  #fastest .fastest-general {
+    margin-top: 180px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+  }
+  #fast .fast--general {
+    margin-top: 180px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column-reverse;
+  }
+  #fast .fast--general {
+    margin-top: 122px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column-reverse;
+  }
+  #сontact .contact .сontact--general {
+    background: white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+    width: 299px;
+    padding: 0 20px;
+    height: 449px;
+    border: 1px solid #DDDDDD;
+    box-shadow: 0 13px 19px rgba(0, 0, 0, 0.07);
+    border-radius: 20px;
+    text-align: center;
+  }
+  #сontact .contact {
+    display: flex;
+    justify-content: center;
+    align-items: start;
+    padding-top: 50px;
+    flex-direction: column;
+  }
+}
+
+/*# sourceMappingURL=media.css.map */
